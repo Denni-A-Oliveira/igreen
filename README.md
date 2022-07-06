@@ -44,19 +44,4 @@ Durante a NLW Return promovida pela Rocketseat, foi desenvolvido um projeto de u
 
 Em construção...
 
-## 📝 License
 
-![image](https://img.shields.io/github/license/felpfsf/rocketseat-nlwr-orign)
-
-### Autor
----
-
-<a href="https://github.com/felpfsf">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2619027?s=400&u=bbad89e6365e204c58f5165424b8e4672062317a&v=4" width="100px;"/>
- <br />
- <sub><b>Felipe F.</b></sub></a>
-
-</br>
-Feito com ❤️ por Felipe F. 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefsf/)](https://www.linkedin.com/in/felipefsf/)
